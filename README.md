@@ -14,7 +14,7 @@ chmod +x /root/sensor
 * * * * * (sleep 30 ; /root/sensor) >/dev/null 2>&1
 ```
 
-Добавм yfcnhjqre сенморов в Home Assistant
+Добавм xYFCNHJQRE сенморов в Home Assistant
 ```
 mqtt:
   sensor:
