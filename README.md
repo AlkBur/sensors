@@ -14,7 +14,7 @@ chmod +x /root/sensor
 * * * * * (sleep 30 ; /root/sensor) >/dev/null 2>&1
 ```
 
-Добавм настройку сенморов в Home Assistant
+Добавим настройку сенсоров в Home Assistant
 ```
 mqtt:
   sensor:
